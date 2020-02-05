@@ -10,9 +10,9 @@ I'm also eager for improvements and extensions, systemd is huge and there is a l
 ## Dependencies
 
 You will need
-    - Python 3.6 or higher
-    - prompt-toolkit
-    - elevate
+* Python 3.6 or higher
+* prompt-toolkit
+* elevate
 
 The easiest way to get all dependencies is by running `python3 -m pip install -r requirements.txt`. If your package manager can provide all dependencies download them that way.
 
